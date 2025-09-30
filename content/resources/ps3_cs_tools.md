@@ -6,6 +6,8 @@ description: 'Supporting files. The ZIP file contains: thrustersizing.m, t_solar
 file: /courses/16-851-satellite-engineering-fall-2003/ccdc9a510b1ff680b4ad3103d6f49f12_ps3_cs_tools.zip
 file_size: 6730
 file_type: application/zip
+hide_download: true
+hide_download_original: null
 learning_resource_types:
 - Assignments
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/

@@ -5,6 +5,8 @@ description: 'Problem Set 5 (Structure, ACS and Propulsion): Seung Chung, and An
 file: /courses/16-851-satellite-engineering-fall-2003/287f099c7f3cef58d6eb21a2213accd4_ps5_cg_ps5.pdf
 file_size: 69580
 file_type: application/pdf
+hide_download: true
+hide_download_original: null
 learning_resource_types:
 - Assignments
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/

@@ -5,6 +5,8 @@ description: 'The ZIP file contains: 1 .gif file, 2 .png files, 2 .xls files, an
 file: /courses/16-851-satellite-engineering-fall-2003/8603d94f04b51951a60b74f9e8a65617_ps1_cg_tools.zip
 file_size: 195978
 file_type: application/zip
+hide_download: true
+hide_download_original: null
 learning_resource_types:
 - Assignments
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/

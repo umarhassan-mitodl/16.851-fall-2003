@@ -7,6 +7,8 @@ description: 'Problem statement courtesy of Christopher Hynes and Kathryn Weiss.
 file: /courses/16-851-satellite-engineering-fall-2003/f1ad4bfb90a9d745ac8266e22e710766_ps2_cs_ps2.pdf
 file_size: 44900
 file_type: application/pdf
+hide_download: true
+hide_download_original: null
 learning_resource_types:
 - Assignments
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/

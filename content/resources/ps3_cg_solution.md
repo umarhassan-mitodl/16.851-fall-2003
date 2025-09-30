@@ -8,6 +8,8 @@ description: 'Problem set and solution courtesy of Seung Chung and Matthew Richa
 file: /courses/16-851-satellite-engineering-fall-2003/9578af5671a7b22b8ae452f96290956b_ps3_cg_solution.pdf
 file_size: 634802
 file_type: application/pdf
+hide_download: true
+hide_download_original: null
 learning_resource_types:
 - Assignments
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/

@@ -4,6 +4,8 @@ description: Sample student portfolio courtesy of Bill Nadir.
 file: /courses/16-851-satellite-engineering-fall-2003/8d0fbfb83d878206fdc0f970eb993e48_portfolio_nadir2.pdf
 file_size: 2929849
 file_type: application/pdf
+hide_download: true
+hide_download_original: null
 learning_resource_types:
 - Projects
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/

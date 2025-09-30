@@ -1,6 +1,8 @@
 ---
 content_type: page
 description: ''
+hide_download: true
+hide_download_original: null
 learning_resource_types: []
 ocw_type: CourseSection
 title: Syllabus
@@ -210,9 +212,9 @@ The following textbooks provide resource material for this course:
 
 ### {{< anchor "7_2" >}}{{< /anchor >}}7.2 Satellite Tool Kit®
 
-Each student will be provided with a copy of Satellite Tool Kit®, an orbital analysis software package developed by Analytical Graphics, Inc. Each student will receive instructions on how to access the full capabilities afforded by MIT's educational license with Analytical Graphics, Inc. The STK® program is yours to keep (although I would like you to return the CD to me once you have installed the software on your computer). The educational license will expire at the end of the course, terminating your access to the tools beyond the basic functionality. The free version of STK® is always available by contacting AGI or on their {{% resource_link "9fa887da-b0c2-4e6e-bb5c-34d114a07d64" "Web site" %}}.
+Each student will be provided with a copy of Satellite Tool Kit®, an orbital analysis software package developed by Analytical Graphics, Inc. Each student will receive instructions on how to access the full capabilities afforded by MIT's educational license with Analytical Graphics, Inc. The STK® program is yours to keep (although I would like you to return the CD to me once you have installed the software on your computer). The educational license will expire at the end of the course, terminating your access to the tools beyond the basic functionality. The free version of STK® is always available by contacting AGI or on their [Web site](https://www.agi.com/products/engineering-tools).
 
 ### {{< anchor "7_3" >}}{{< /anchor >}}7.3 Satellite Design Web Sites
 
-1.  {{% resource_link "043482e2-f0e4-46ab-9af7-15f822fbad09" "Small Spacecraft World Wide Web Links" %}}
-2.  {{% resource_link "aeeda645-fee2-41af-90dd-b3fce63190bc" "NASA Online Cost Models" %}}
+1.  [Small Spacecraft World Wide Web Links](http://www.rand.org/publications/MR/MR864/appxF.html)
+2.  [NASA Online Cost Models](http://www.jsc.nasa.gov/bu2/)

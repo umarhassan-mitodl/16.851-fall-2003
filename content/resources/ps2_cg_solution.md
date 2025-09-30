@@ -7,6 +7,8 @@ description: 'Problem set and solution courtesy of Seung Chung and Namiko Yamamo
 file: /courses/16-851-satellite-engineering-fall-2003/e9e1eb82a6e428358fb07c1ee0fd2c3c_ps2_cg_solution.pdf
 file_size: 238573
 file_type: application/pdf
+hide_download: true
+hide_download_original: null
 learning_resource_types:
 - Assignments
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/

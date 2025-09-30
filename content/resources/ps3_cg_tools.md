@@ -5,6 +5,8 @@ description: 'Supporting files courtesy of Seung Chung and Matthew Richards. Use
 file: /courses/16-851-satellite-engineering-fall-2003/efa17e519dd0910ca9f51676c627a4d8_ps3_cg_tools.zip
 file_size: 115907
 file_type: application/zip
+hide_download: true
+hide_download_original: null
 learning_resource_types:
 - Assignments
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/

@@ -10,6 +10,8 @@ description: 'Problem set and solution.
 file: /courses/16-851-satellite-engineering-fall-2003/19ed0a2204d8415a47a1c8b9badb7d86_ps6_nn_solution.pdf
 file_size: 734803
 file_type: application/pdf
+hide_download: true
+hide_download_original: null
 learning_resource_types:
 - Assignments
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/

@@ -4,6 +4,8 @@ description: Slides for presentation of Lecture 21.
 file: /courses/16-851-satellite-engineering-fall-2003/818606568cbb5f2e4116783f6eb0573e_l21satelitecomm2_done.pdf
 file_size: 1188871
 file_type: application/pdf
+hide_download: true
+hide_download_original: null
 learning_resource_types:
 - Lecture Notes
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/

@@ -5,6 +5,8 @@ description: 'These supporting files courtesy of Christopher Hynes and Steve Pas
 file: /courses/16-851-satellite-engineering-fall-2003/3d4ddf58f52eb86fab37bb55f8ecaf16_ps1_cs_tools.zip
 file_size: 20497
 file_type: application/zip
+hide_download: true
+hide_download_original: null
 learning_resource_types:
 - Assignments
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/

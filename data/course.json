@@ -34,6 +34,7 @@
     "website": "16-851-satellite-engineering-fall-2003"
   },
   "course_title": "Satellite Engineering",
+  "hide_download": true,
   "course_description": "Satellite Engineering introduces students to subsystem design in engineering spacecraft. The course presents characteristic subsystems, such as power, structure, communication and control, and analyzes the engineering trades necessary to integrate subsystems successfully into a satellite.\u00a0Discussions of spacecraft operating environment and orbital mechanics help students to understand the functional requirements and key design parameters for satellite systems.\n",
   "department_numbers": [
     "16"
@@ -44,6 +45,7 @@
     "content": "dc614694-4d86-ba96-d111-956554276f91",
     "website": "16-851-satellite-engineering-fall-2003"
   },
+  "hide_download_original": true,
   "learning_resource_types": [
     "Lecture Notes",
     "Projects with Examples",

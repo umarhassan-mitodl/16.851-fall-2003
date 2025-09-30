@@ -9,6 +9,8 @@ description: 'Problem set and solution. Problem statement: Mars is of great scie
 file: /courses/16-851-satellite-engineering-fall-2003/d6331ef18bb0ff2c694afab2b647e522_ps6_cg_solution.pdf
 file_size: 744101
 file_type: application/pdf
+hide_download: true
+hide_download_original: null
 learning_resource_types:
 - Assignments
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/
