@@ -5,8 +5,6 @@ description: This syllabus contains a general description of the course, its org
 file: /courses/16-851-satellite-engineering-fall-2003/3613910876875e367d4018ce091ccf4c_syllabus_2003.pdf
 file_size: 89103
 file_type: application/pdf
-hide_download: true
-hide_download_original: null
 learning_resource_types: []
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile

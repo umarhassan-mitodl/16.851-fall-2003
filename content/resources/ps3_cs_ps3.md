@@ -4,8 +4,6 @@ description: 'Problem Set 3 Question Definition: Chynes'
 file: /courses/16-851-satellite-engineering-fall-2003/93c14afd9237899bd5e71f77aa6fcfd0_ps3_cs_ps3.pdf
 file_size: 62524
 file_type: application/pdf
-hide_download: true
-hide_download_original: null
 learning_resource_types:
 - Assignments
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/

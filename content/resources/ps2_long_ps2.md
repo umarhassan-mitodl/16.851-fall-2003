@@ -7,8 +7,6 @@ description: 'Problem statement courtesy of Andrew Long and Anna Silbovitz. Prob
 file: /courses/16-851-satellite-engineering-fall-2003/df48989e75e97b8ed6b2930af0bd9e0c_ps2_long_ps2.pdf
 file_size: 20024
 file_type: application/pdf
-hide_download: true
-hide_download_original: null
 learning_resource_types:
 - Assignments
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/

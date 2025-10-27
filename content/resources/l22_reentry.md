@@ -4,8 +4,6 @@ description: Slides for presentation of Lecture 22.
 file: /courses/16-851-satellite-engineering-fall-2003/6a9dbe090215c33fa5ad5bf9f1b84f99_l22_reentry.pdf
 file_size: 492695
 file_type: application/pdf
-hide_download: true
-hide_download_original: null
 learning_resource_types:
 - Lecture Notes
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/

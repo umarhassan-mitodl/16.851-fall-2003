@@ -7,8 +7,6 @@ description: 'Problem and solution provided by students Seung Chung, Mark Hilsta
 file: /courses/16-851-satellite-engineering-fall-2003/9f5c1b22d5574bd6289ff78a575185e2_ps1_cg_solution.pdf
 file_size: 275963
 file_type: application/pdf
-hide_download: true
-hide_download_original: null
 learning_resource_types:
 - Assignments
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/

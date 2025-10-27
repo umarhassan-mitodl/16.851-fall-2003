@@ -6,8 +6,6 @@ description: 'Supporting files.
 file: /courses/16-851-satellite-engineering-fall-2003/22b54903d74608c069e4c08fe1bafcb1_ps6_cs_tools.zip
 file_size: 10711
 file_type: application/zip
-hide_download: true
-hide_download_original: null
 learning_resource_types:
 - Assignments
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/

@@ -7,8 +7,6 @@ description: 'Supporting files courtesy of Seung Chung and Namiko Yamamoto. Used
 file: /courses/16-851-satellite-engineering-fall-2003/5f40c20e8810099bd576ca03139f7116_ps2_cg_tools.zip
 file_size: 6118
 file_type: application/zip
-hide_download: true
-hide_download_original: null
 learning_resource_types:
 - Assignments
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/

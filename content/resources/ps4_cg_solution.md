@@ -8,8 +8,6 @@ description: 'Problem set and solution. Problem statement: The power and communi
 file: /courses/16-851-satellite-engineering-fall-2003/81f80cdc5f01208a496a412a52b00a71_ps4_cg_solution.pdf
 file_size: 250662
 file_type: application/pdf
-hide_download: true
-hide_download_original: null
 learning_resource_types:
 - Assignments
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/

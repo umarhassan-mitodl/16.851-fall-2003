@@ -4,8 +4,6 @@ description: Sample student portfoloio.
 file: /courses/16-851-satellite-engineering-fall-2003/533672f84f6c6e3054730b672d53c87b_portfolio_nadir1.pdf
 file_size: 3935798
 file_type: application/pdf
-hide_download: true
-hide_download_original: null
 learning_resource_types:
 - Projects
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/
